@@ -114,7 +114,7 @@ const BlogPostForm = {
     {
       name: "frontmatter.description",
       component: "textarea",
-      label: "Textarea",
+      label: "Excerpt",
     },
     { name: "rawMarkdownBody", component: "markdown", label: "Body" },
   ],
